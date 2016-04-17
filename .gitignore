@@ -1,0 +1,9 @@
+*.VC.VC.opendb
+*.VC.db
+*.exe
+*.ilk
+*.pdb
+*.obj
+*.tlog
+*.log
+*.html
