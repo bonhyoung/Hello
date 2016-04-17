@@ -1,0 +1,4 @@
+*.obj
+/Engine.log
+*.idb
+*.pdb
