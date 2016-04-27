@@ -3,6 +3,8 @@
 ////////////////////////////////////////////////////////////////////////////////
 #include "systemclass.h"
 
+#define ruluralra 1
+
 
 int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, PSTR pScmdline, int iCmdshow)
 {
