@@ -17,7 +17,7 @@ D3DClass::D3DClass()
 	m_depthDisabledStencilState = 0;
 }
 
-
+  
 D3DClass::D3DClass(const D3DClass& other)
 {
 }
